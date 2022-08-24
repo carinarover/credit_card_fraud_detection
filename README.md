@@ -9,3 +9,6 @@ Credit card fraud is one of the most common types of fraud and causes problems w
 Machine learning models are used to detect fraud and avoid financial losses. An anti-fraud system aims to identify fraudulent information with the fewest false alarms. A legitimate transaction classified as fraud is characterized as a false alarm (false positive). In the case of financial transactions, the cost of not detecting fraud can be high, but false alarms can generate dissatisfaction with legitimate customers.
 
 Case: Credit card company needs to ensure customers are not victims of fraud. The company is also concerned about the possible classification of good customers as suspects and therefore wants to ensure that the detection system makes as few errors as possible. How can we avoid misclassifications as much as possible?
+
+
+Link to the original challenge (Kaggle): https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?datasetId=310&sortBy=voteCount&select=creditcard.csv 
