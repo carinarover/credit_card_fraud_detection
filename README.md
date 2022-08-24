@@ -1,7 +1,7 @@
 # credit_card_fraud_detection
 
-![images](https://user-images.githubusercontent.com/93684609/186473167-ed870f5e-96e4-402f-b1bd-e36b8f635745.jpg)
 
+![why-fraud-getting-more-sophisticated jpeg optimal](https://user-images.githubusercontent.com/93684609/186473356-f993acaa-6ea5-47a5-8f73-2617c1ff9c97.jpeg)
 
 # Credit Card Fraud Detection
 
