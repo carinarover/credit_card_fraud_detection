@@ -1,5 +1,7 @@
 # credit_card_fraud_detection
 
+![fraud-detection-bayesian-networks-square](https://user-images.githubusercontent.com/93684609/186473099-d198eb29-39e8-4e02-b48c-a84b5e4ecaef.jpg)
+
 # Credit Card Fraud Detection
 
 In the digital age, fraud is an increasingly common and difficult problem to avoid. Legitimate cases of transactions can cover up fraud cases, making them go unnoticed among non-fraudulent cases. Furthermore, the methods used by fraudsters are constantly improved and adapted and often evolve faster than anti-fraud systems.
