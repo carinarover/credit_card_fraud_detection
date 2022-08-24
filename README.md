@@ -1,6 +1,7 @@
 # credit_card_fraud_detection
 
-![fraud-detection-bayesian-networks-square](https://user-images.githubusercontent.com/93684609/186473099-d198eb29-39e8-4e02-b48c-a84b5e4ecaef.jpg)
+![images](https://user-images.githubusercontent.com/93684609/186473167-ed870f5e-96e4-402f-b1bd-e36b8f635745.jpg)
+
 
 # Credit Card Fraud Detection
 
